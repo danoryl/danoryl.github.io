@@ -9526,7 +9526,8 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #0BCEAF !important;
+  /*color: #0BCEAF !important;*/
+  color: #FFF !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9739,10 +9740,10 @@ h6,
   font-weight: 100 !important;
 }
 
-.text-stroke-header {
+/*.text-stroke-header {
   -webkit-text-stroke: 3px #ffffff;
   color: transparent;
-}
+}*/
 
 .btn {
   padding: 10px 25px;
