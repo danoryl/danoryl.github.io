@@ -9526,7 +9526,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  /*color: #0BCEAF !important;*/
+  color: #0BCEAF !important;
+
+}
+
+.text-name {
   color: #FFF !important;
 }
 
